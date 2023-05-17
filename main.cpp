@@ -1,6 +1,7 @@
 // test
 #include <iostream>
 #include <string.h>
+#include "ref/cuddObj.hh"
 
 using namespace std;
 
